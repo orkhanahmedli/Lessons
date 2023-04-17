@@ -10,6 +10,29 @@ namespace Homework_2
     {
         static void Main(string[] args)
         {
+            var a = "Sheki";
+            var b = "Kelbecer";
+            var c = "Xankendi";
+            var d = "Fuzuli";
+            var f = "Lachin";
+            var e = "Shusha";
+            var g = "Aghdam";
+            var h = "Zengilan";
+            var r = "Qubadli";
+            var t = "Cebrayil";
+
+            Console.WriteLine("1:"+"Sheki");
+            Console.WriteLine("2:"+"Kelbecer");
+            Console.WriteLine("3:"+"Xankendi");
+            Console.WriteLine("4:"+"Fuzuli");
+            Console.WriteLine("5:"+"Lachin");
+            Console.WriteLine("6:"+"Shusha");
+            Console.WriteLine("7:"+"Aghdam");
+            Console.WriteLine("8:"+"Zengilan");
+            Console.WriteLine("9:"+"Qubadli");
+            Console.WriteLine("10:"+"Cebrayil");
+            Console.ReadLine();
+
         }
     }
 }
