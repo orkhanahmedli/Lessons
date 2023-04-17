@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace Homework_2
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("salam");
-            Console.WriteLine("Orxan Ehmedli");
-            Console.ReadLine();
         }
     }
 }
