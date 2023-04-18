@@ -10,7 +10,9 @@ namespace Homework1
     {
         static void Main(string[] args)
         {
-           
+            var name = "ad:";
+            var surname = "soyad:";
+            var where = "yasadiginiz yer:";
             Console.WriteLine("ad:");
             Console.WriteLine("soyad:");
             Console.WriteLine("yasadiginiz  yer:");

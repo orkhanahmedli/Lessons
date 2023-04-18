@@ -10,17 +10,8 @@ namespace Homework_3
     {
         static void Main(string[] args)
         {
-            var a = "Sheki";
-            var b = "Kelbecer";
-            var c = "Xankendi";
-            var d = "Fuzuli";
-            var f = "Lachin";
-            var e = "Shusha";
-            var g = "Aghdam";
-            var h = "Zengilan";
-            var r = "Qubadli";
-            var t = "Cebrayil";
-
+           
+            var name = Console.ReadLine();
             Console.Write("Sheki");
             Console.Write("," + "Kelbecer");
             Console.Write("," + "Xankendi");
