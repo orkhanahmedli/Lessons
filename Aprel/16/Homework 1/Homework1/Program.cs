@@ -10,15 +10,15 @@ namespace Homework1
     {
         static void Main(string[] args)
         {
-            var ad = "Orxan";
-            var soyad = "Ehmedli";
-            var yasadiginiz_yer = "Sheki";
-            Console.WriteLine("ad:" + "Orxan");
-            Console.WriteLine("soyad:" + "Ehmedli");
-            Console.WriteLine("yasadiginiz  yer:" + "Sheki");
-            Console.ReadLine();
+           
+            Console.WriteLine("ad:");
+            Console.WriteLine("soyad:");
+            Console.WriteLine("yasadiginiz  yer:");
+            
+            var readline = Console.ReadLine();
 
-
+            Console.WriteLine(readline);
+           
 
         }
     }
